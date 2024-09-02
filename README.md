@@ -26,3 +26,4 @@ El pie de página proporciona información adicional y enlaces a las redes socia
 ### - Revisión y mejora según lo aprendido en clases
 - El cambio que se hizo es (etiqueta meta) la codificación más comúnmente utilizada y recomendada es UTF-8 en el (head), es compatible con los caracteres acentuados y en español. Mediante este tag evitamos que la pagina se vea de modo incorrecto (como las ñ o las tíldes se vean correctamente).
 - El (nav) lo ubique dentro del (header) porque estaba fuera.
+- Corregí de mayúscula a minúscula: link y rel, href, type y media.
